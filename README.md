@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer @ Tezcode IT</h3>
 
 <p align="center">
-Web ilovalar quraman — frontend'dan backend'gacha. CRM, LMS va biznes tizimlar ustida ishlayman. Toza kod, real mahsulotlar va doimiy o'rganish tarafdoriman.
+Web va mobil ilovalar quraman — frontend, backend va mobil. CRM, LMS va biznes tizimlar ustida ishlayman. Toza kod, real mahsulotlar va doimiy o'rganish tarafdoriman.
 </p>
 
 ---
@@ -10,8 +10,9 @@ Web ilovalar quraman — frontend'dan backend'gacha. CRM, LMS va biznes tizimlar
 ### 👤 Men haqimda
 
 - 💼 **Tezcode IT** kompaniyasida Full-Stack dasturchi
+- 📱 Web va mobil ilovalar ishlab chiqaman
 - 🌍 O'zbekiston
-- 📧 abdusalimovjavodbek07@gmail.com
+- 📧 abdusalimovjavodbek1@gmail.com
 
 ---
 
@@ -19,6 +20,7 @@ Web ilovalar quraman — frontend'dan backend'gacha. CRM, LMS va biznes tizimlar
 
 **Frontend:** JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS
 **Backend:** Node.js, Express, Python, REST API
+**Mobile:** React Native
 **Ma'lumotlar bazasi:** PostgreSQL, MongoDB, MySQL
 **Vositalar:** Git, Docker, Linux, VS Code, Figma
 
@@ -47,6 +49,5 @@ Web ilovalar quraman — frontend'dan backend'gacha. CRM, LMS va biznes tizimlar
 
 ### 📫 Bog'lanish
 
-- Email: abdusalimovjavodbek07@gmail.com
-- LinkedIn: (havolangni qo'y)
-- Telegram: (username)
+- 📧 Email: abdusalimovjavodbek1@gmail.com
+- ✈️ Telegram: [@Java_411](https://t.me/Java_411)
