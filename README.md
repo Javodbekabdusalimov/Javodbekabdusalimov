@@ -1,9 +1,17 @@
-<h1 align="center">Salom, men Javodbek 👋</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Salom, men Javodbek Abdusalimov 👋</h1>
+<h3 align="center">Full-Stack Developer @ Tezcode IT</h3>
 
 <p align="center">
-Web ilovalar quraman — frontend'dan backend'gacha. Toza kod, real loyihalar va doimiy o'rganish tarafdoriman.
+Web ilovalar quraman — frontend'dan backend'gacha. CRM, LMS va biznes tizimlar ustida ishlayman. Toza kod, real mahsulotlar va doimiy o'rganish tarafdoriman.
 </p>
+
+---
+
+### 👤 Men haqimda
+
+- 💼 **Tezcode IT** kompaniyasida Full-Stack dasturchi
+- 🌍 O'zbekiston
+- 📧 abdusalimovjavodbek07@gmail.com
 
 ---
 
@@ -16,6 +24,16 @@ Web ilovalar quraman — frontend'dan backend'gacha. Toza kod, real loyihalar va
 
 ---
 
+### 🚀 Loyihalarim
+
+- **Sanoat portali** — sanoat sohasi uchun ma'lumot va xizmatlar portali. Full-stack web ilova.
+- **TezDetal** — ehtiyot qismlar/detallar uchun onlayn platforma.
+- **ZuhrStar** — biznes veb-platformasi.
+- **CRM** — mijozlar bilan ishlashni boshqarish tizimi (Customer Relationship Management).
+- **LMS** — onlayn ta'lim/kurslarni boshqarish tizimi (Learning Management System).
+
+---
+
 ### 📊 GitHub statistikam
 
 <p align="center">
@@ -24,14 +42,6 @@ Web ilovalar quraman — frontend'dan backend'gacha. Toza kod, real loyihalar va
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javodbekabdusalimov&layout=compact&theme=tokyonight" alt="langs" />
 </p>
-
----
-
-### 🚀 Asosiy loyihalarim
-
-- **[Loyiha nomi 1](https://github.com/...)** — qisqa tavsif (nima qiladi, qaysi texnologiyada).
-- **[Loyiha nomi 2](https://github.com/...)** — qisqa tavsif.
-- **[Loyiha nomi 3](https://github.com/...)** — qisqa tavsif.
 
 ---
 
